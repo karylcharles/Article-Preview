@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/article-preview/static/css/main.64e3fd0c.css",
+    "main.js": "/article-preview/static/js/main.d435707c.js",
+    "static/media/drawers.jpg": "/article-preview/static/media/drawers.631135b079e9f19bada8.jpg",
+    "index.html": "/article-preview/index.html",
+    "main.64e3fd0c.css.map": "/article-preview/static/css/main.64e3fd0c.css.map",
+    "main.d435707c.js.map": "/article-preview/static/js/main.d435707c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64e3fd0c.css",
+    "static/js/main.d435707c.js"
+  ]
+}
